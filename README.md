@@ -6,8 +6,6 @@ A robust and scalable Node.js/Express backend API powering the Trendly e-commerc
 
 ## 🏗️ Architecture
 
-## 🏗️ Architecture
-
 ### Backend Architecture Diagram
 
 ```
